@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "000PowerCellLib")(type "KiCad")(uri "${KIPRJMOD}/000PowerCellLib.kicad_sym")(options "")(descr ""))
+)
