@@ -9,3 +9,11 @@
   <li>Animations for inidcator</li>
 </ul>
 <h3>ONLY USE PROTECTED LI-POs WITH THIS CIRCUIT :D</h3>
+<div>
+<h3>Circuit diagram</h3>
+<img src="Pictures/Schematic.png" alt="Circuit schematic">
+<h3>Front of circuit board</h3>
+<img src="Pictures/Front-Copper.png" alt="Front of circuit board">
+<h3>Back of circuit board</h3>
+<img src="Pictures/Back-Copper.png" alt="Back of circuit board">
+</div>
