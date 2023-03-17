@@ -45,7 +45,7 @@
         "silk_text_thickness": 0.15,
         "silk_text_upright": false,
         "zones": {
-          "min_clearance": 0.5
+          "min_clearance": 0.15
         }
       },
       "diff_pair_dimensions": [
@@ -58,7 +58,12 @@
       "drc_exclusions": [
         "clearance|-11920000|-400000|4d5c9bdf-715e-44dc-8666-9baa442389a6|8e7488bb-21fb-4b91-9d40-f18637ef1b76",
         "clearance|-12420000|-400000|8e7488bb-21fb-4b91-9d40-f18637ef1b76|0e9864b0-823c-4968-b044-bebb397fdf7c",
-        "clearance|-12580000|1100000|ee485d9d-86b0-4047-b0ba-00d8fa8f63b5|03c78541-1ed9-4815-8467-50f4d04ea7b0"
+        "clearance|-12580000|1100000|ee485d9d-86b0-4047-b0ba-00d8fa8f63b5|03c78541-1ed9-4815-8467-50f4d04ea7b0",
+        "clearance|136920000|100095000|ee485d9d-86b0-4047-b0ba-00d8fa8f63b5|03c78541-1ed9-4815-8467-50f4d04ea7b0",
+        "clearance|137080000|98595000|8e7488bb-21fb-4b91-9d40-f18637ef1b76|0e9864b0-823c-4968-b044-bebb397fdf7c",
+        "clearance|137580000|98595000|4d5c9bdf-715e-44dc-8666-9baa442389a6|8e7488bb-21fb-4b91-9d40-f18637ef1b76",
+        "extra_footprint|168000000|97245000|22d94c5c-f05d-4bf5-bb16-ce1a75350dcf|00000000-0000-0000-0000-000000000000",
+        "net_conflict|149750000|97344004|f39be5c8-6a01-4f93-9f74-9899b7a1851e|00000000-0000-0000-0000-000000000000"
       ],
       "meta": {
         "version": 2
@@ -416,7 +421,7 @@
     "classes": [
       {
         "bus_width": 12,
-        "clearance": 0.2,
+        "clearance": 0.15,
         "diff_pair_gap": 0.25,
         "diff_pair_via_gap": 0.25,
         "diff_pair_width": 0.2,
